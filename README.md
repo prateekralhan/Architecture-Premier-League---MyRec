@@ -14,7 +14,7 @@
 * App functionality is worldwide. However, ingredient shopping is currently only available in India. We would consider options based on the requirement.
 * BigZee is a trusted grocery chain in India. It has its presence in most of the major cities. However, ingredients’ delivery option is dependent on the zip code of the customer.
  
- **Compatible with all devices**
+🛠 **Compatible with all devices**
  
 1. MyRec company wants a one place solution to organize individual user's recipes retrieved through various sources so that recipes are maintained in a single place. Subscription of the application at Basic and Premium package. Basic is only Recipe storage, Premium is   Recipe +Meal Planner + Ingredients Shopping.   
 2. Personalized space to be available with Table of contents categorized as Main course, Starters, soup, salad, dessert, juice etc. )  
@@ -34,32 +34,36 @@
 •	Shall be able to Share recipes to social media  
 •	Data and meta data configurable by the Admin user 
 
-## Proposed System Architecture
+## 🛠 Proposed System Architecture
 
 ![MyRec - Architecture Diagram](https://user-images.githubusercontent.com/29462447/167287681-9a5cb7bc-7bc3-4d7c-85ba-b18b5bc52e50.png)
 
 
-## User Journey (UML diagram)
+## 🛠 User Journey (UML diagram)
 **You may need to zoom in :wink:**
 
 ![UML Diagram](https://user-images.githubusercontent.com/29462447/167288315-074241e4-7fa3-4b40-b0f3-dfd64ab8ddbe.png)
 
-## ER diagram
+## 🛠 ER diagram
 
 ![image](https://user-images.githubusercontent.com/29462447/167288438-81099910-a787-4d66-87a6-faf5c8138c50.png)
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ![image](https://user-images.githubusercontent.com/29462447/167288493-56d96ba2-0edc-465d-81bd-72f29ab50f40.png)
 
-## MyRec App UI Design
+## 🎉 MyRec App UI Design
 
 ![image](https://user-images.githubusercontent.com/29462447/167288531-f5f0fa52-ede2-487a-934c-4937a3f2d9a7.png)
 
 
-
+## Wrap up!
 ![image](https://user-images.githubusercontent.com/29462447/167288659-933afae9-b92f-4e0c-95e5-3672912d3791.png)
 
+
+## Legal Notice
+© 2022 Swiss Re. All rights reserved. You may use this presentation for private or internal purposes but note that any copyright or other proprietary notices must not be removed. You are not permitted to create any modifications or derivative works of this presentation, or to use it for commercial or other public purposes, without the prior written permission of Swiss Re.
+The information and opinions contained in the presentation are provided as at the date of the presentation and may change. Although the information used was taken from reliable sources, Swiss Re does not accept any responsibility for its accuracy or comprehensiveness or its updating. All liability for the accuracy and completeness of the information or for any damage or loss resulting from its use is expressly excluded. 
 
 
