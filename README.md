@@ -1,3 +1,6 @@
+
+![SR CorSo logo](https://user-images.githubusercontent.com/29462447/167288774-90a643e1-0745-4966-ab75-aa67f08060ae.png)
+
 # Architecture Premier League - MyRec [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
 ## Problem Statement
