@@ -1,19 +1,20 @@
 
 ![SR CorSo logo](https://user-images.githubusercontent.com/29462447/167288774-90a643e1-0745-4966-ab75-aa67f08060ae.png)
 
-# Architecture Premier League - MyRec [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# ✨ Architecture Premier League - MyRec [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
-## Problem Statement
-#### MyRec
+## 🔗 Slides can be found [here.](https://github.com/prateekralhan/Architecture-Premier-League---MyRec/blob/main/Architecture%20Premier%20League%20-%20MyRec%20-%20SOLUTION.pdf)
 
-**Assumption:**   
+## 📑 Problem Statement - MyRec
+
+⁉ **Assumptions**   
 * Partner Company Bigzee sells Grocery.
 * Meal planner can be availed for MyRec recipes only
 * 1M+ user base for the app which is increasing rapidly as well.
 * App functionality is worldwide. However, ingredient shopping is currently only available in India. We would consider options based on the requirement.
 * BigZee is a trusted grocery chain in India. It has its presence in most of the major cities. However, ingredients’ delivery option is dependent on the zip code of the customer.
  
-**Compatible with all devices**
+ **Compatible with all devices**
  
 1. MyRec company wants a one place solution to organize individual user's recipes retrieved through various sources so that recipes are maintained in a single place. Subscription of the application at Basic and Premium package. Basic is only Recipe storage, Premium is   Recipe +Meal Planner + Ingredients Shopping.   
 2. Personalized space to be available with Table of contents categorized as Main course, Starters, soup, salad, dessert, juice etc. )  
