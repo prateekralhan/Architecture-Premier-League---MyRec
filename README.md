@@ -30,13 +30,32 @@
 •	Shall be able to Share recipes to social media  
 •	Data and meta data configurable by the Admin user 
 
-## User Journey (UML diagram) can be viewed [here.]()
-
-<object data="UML diagram.html" type="text/html" width="100%"> 
-</object>
-
 ## Proposed System Architecture
 
 ![MyRec - Architecture Diagram](https://user-images.githubusercontent.com/29462447/167287681-9a5cb7bc-7bc3-4d7c-85ba-b18b5bc52e50.png)
+
+
+## User Journey (UML diagram)
+**You may need to zoom in :wink:**
+
+![UML Diagram](https://user-images.githubusercontent.com/29462447/167288315-074241e4-7fa3-4b40-b0f3-dfd64ab8ddbe.png)
+
+## ER diagram
+
+![image](https://user-images.githubusercontent.com/29462447/167288438-81099910-a787-4d66-87a6-faf5c8138c50.png)
+
+
+## Tech Stack
+
+![image](https://user-images.githubusercontent.com/29462447/167288493-56d96ba2-0edc-465d-81bd-72f29ab50f40.png)
+
+## MyRec App UI Design
+
+![image](https://user-images.githubusercontent.com/29462447/167288531-f5f0fa52-ede2-487a-934c-4937a3f2d9a7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/29462447/167288659-933afae9-b92f-4e0c-95e5-3672912d3791.png)
+
 
 
