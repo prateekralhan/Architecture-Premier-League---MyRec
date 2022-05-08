@@ -32,6 +32,8 @@
 
 ## User Journey (UML diagram) can be viewed [here.]()
 
+<object data="UML diagram.html" type="text/html" width="100%"> 
+</object>
 
 ## Proposed System Architecture
 
