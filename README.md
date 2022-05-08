@@ -1,11 +1,9 @@
 
 ![SR CorSo logo](https://user-images.githubusercontent.com/29462447/167288774-90a643e1-0745-4966-ab75-aa67f08060ae.png)
 
-# ✨ Architecture Premier League - MyRec [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# ✨ [Architecture Premier League](https://www.linkedin.com/posts/prashanth-panduranga-3a18737_swissre-techsharp-architecture-activity-6910474096925454336-OTR0?utm_source=linkedin_share&utm_medium=member_desktop_web) - MyRec [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
-## 🔗 Slides can be found [here.](https://github.com/prateekralhan/Architecture-Premier-League---MyRec/blob/main/Architecture%20Premier%20League%20-%20MyRec%20-%20SOLUTION.pdf)
-
-## 📑 Problem Statement - MyRec
+## 📑 Our Problem Statement - MyRec
 
 ⁉ **Assumptions**   
 * Partner Company Bigzee sells Grocery.
@@ -61,6 +59,7 @@
 ## Wrap up!
 ![image](https://user-images.githubusercontent.com/29462447/167288659-933afae9-b92f-4e0c-95e5-3672912d3791.png)
 
+## 🔗 Slides can be found [here.](https://github.com/prateekralhan/Architecture-Premier-League---MyRec/blob/main/Architecture%20Premier%20League%20-%20MyRec%20-%20SOLUTION.pdf)
 
 ## Legal Notice
 © 2022 Swiss Re. All rights reserved. You may use this presentation for private or internal purposes but note that any copyright or other proprietary notices must not be removed. You are not permitted to create any modifications or derivative works of this presentation, or to use it for commercial or other public purposes, without the prior written permission of Swiss Re.
