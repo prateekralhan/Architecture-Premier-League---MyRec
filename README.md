@@ -55,6 +55,17 @@
 
 ![image](https://user-images.githubusercontent.com/29462447/167288531-f5f0fa52-ede2-487a-934c-4937a3f2d9a7.png)
 
+| **Userflow (UI design)**  | **from left to right**  |
+|---------------------|-----------------------|
+| ![image](https://user-images.githubusercontent.com/29462447/167290785-80ea6ef2-facb-413f-8a59-c47e0977c57d.png) | ![image](https://user-images.githubusercontent.com/29462447/167290792-9e8150d5-f68e-435d-b675-16e0f6a93c15.png) |
+|  ![image](https://user-images.githubusercontent.com/29462447/167290818-ba03addf-dc37-49c9-a208-302fb429847c.png) | ![image](https://user-images.githubusercontent.com/29462447/167290827-2e41a0c5-eb9d-4c19-a35e-1cf8a2dfc7ad.png) |
+|  ![image](https://user-images.githubusercontent.com/29462447/167290843-63fb1546-fdb6-4968-b0cc-4124b900e5ba.png) |  ![image](https://user-images.githubusercontent.com/29462447/167290852-7215ae67-019d-4f3d-9918-79eac66a122d.png) |
+|  ![image](https://user-images.githubusercontent.com/29462447/167290859-4cc772a4-4046-4213-96b7-791f4511ed51.png) | ![image](https://user-images.githubusercontent.com/29462447/167290870-9fe1e21b-d469-4722-84bc-0e789b8d71d3.png) |
+| ![image](https://user-images.githubusercontent.com/29462447/167290898-015c6f12-b035-4b5d-9ab5-f87417c42c89.png) | ![image](https://user-images.githubusercontent.com/29462447/167290904-a7c8d4ce-9dbc-45e3-afa5-a23494a152c0.png) |
+| ![image](https://user-images.githubusercontent.com/29462447/167290922-260dab29-6fdb-4b3f-8500-e0650e32e688.png) | ![image](https://user-images.githubusercontent.com/29462447/167290933-b58b8d39-df8e-444a-bb38-8d331072e3ed.png) |
+| ![image](https://user-images.githubusercontent.com/29462447/167290955-9af3194b-46ff-4bf9-b65d-149d049940cd.png) | ![image](https://user-images.githubusercontent.com/29462447/167290962-216383bc-9c41-45f6-9daf-ff46dd0b995b.png) |
+| ![image](https://user-images.githubusercontent.com/29462447/167290981-195ee2b9-f5e0-4842-9713-5f6508fced03.png) | ![image](https://user-images.githubusercontent.com/29462447/167290993-91ab9616-1ef5-4204-beca-030b12783e79.png) |
+
 
 ## Wrap up!
 ![image](https://user-images.githubusercontent.com/29462447/167288659-933afae9-b92f-4e0c-95e5-3672912d3791.png)
