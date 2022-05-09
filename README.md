@@ -34,7 +34,7 @@
 
 ## 🛠 Proposed System Architecture
 
-![MyRec - Architecture Diagram](https://user-images.githubusercontent.com/29462447/167287681-9a5cb7bc-7bc3-4d7c-85ba-b18b5bc52e50.png)
+![167287681-9a5cb7bc-7bc3-4d7c-85ba-b18b5bc52e50](https://user-images.githubusercontent.com/29462447/167397270-0bf64dca-ba00-40be-b5f4-2fcc2016fae2.png)
 
 
 ## 🛠 User Journey (UML diagram)
