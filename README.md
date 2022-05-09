@@ -52,6 +52,7 @@
 ![image](https://user-images.githubusercontent.com/29462447/167288493-56d96ba2-0edc-465d-81bd-72f29ab50f40.png)
 
 ## 🎉 MyRec App UI Design
+**Designed using [Figma](https://www.figma.com/)**
 
 ![image](https://user-images.githubusercontent.com/29462447/167288531-f5f0fa52-ede2-487a-934c-4937a3f2d9a7.png)
 
